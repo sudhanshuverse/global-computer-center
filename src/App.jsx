@@ -207,7 +207,7 @@ export default function App() {
               </div>
               <div>
                 <h1 className="text-lg lg:text-xl font-bold text-slate-900 tracking-tight">Global Computer Center STS</h1>
-                <p className="text-xs text-slate-600">Jhajha, Bihar</p>
+                <p className="text-xs text-slate-600">Dhobiyakura jhajha</p>
               </div>
             </div>
             
