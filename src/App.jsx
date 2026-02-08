@@ -830,8 +830,8 @@ export default function App() {
                   <Code className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold">Global Computer Center STS</h3>
-                  <p className="text-xs text-slate-400">Jhajha, Bihar</p>
+                  <h3 className="text-lg font-bold">Global Computer Center</h3>
+                  <p className="text-xs text-slate-400">Dhobiyakura Jhajha, Bihar</p>
                 </div>
               </div>
               <p className="text-slate-400 text-sm leading-relaxed mb-4">
