@@ -206,7 +206,7 @@ export default function App() {
                 <Code className={`w-7 h-7 ${scrolled ? 'text-white' : 'text-emerald-600'}`} />
               </div>
               <div>
-                <h1 className="text-lg lg:text-xl font-bold text-slate-900 tracking-tight">Global Computer Center STS</h1>
+                <h1 className="text-lg lg:text-xl font-bold text-slate-900 tracking-tight">Global Computer Center</h1>
                 <p className="text-xs text-slate-600">Dhobiyakura jhajha</p>
               </div>
             </div>
