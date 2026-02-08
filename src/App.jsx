@@ -886,7 +886,7 @@ export default function App() {
                 © 2026 Global Computer Centre STS | Gram Dhobiyakura, Jhajha, Bihar
               </p>
               <p className="text-slate-500 text-xs">
-                Designed with ❤️ for digital education
+                Designed with ❤️
               </p>
             </div>
           </div>
